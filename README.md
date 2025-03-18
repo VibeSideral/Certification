@@ -9,4 +9,3 @@
 
   <h3 align="center"> Certificações da DIO! </h3>
 
-<br/>
