@@ -7,5 +7,7 @@
 </h2>
  <br/l>
 
-  <h3 align="center"> Certificações da DIO! </h3>
+  <h3 align="center"> Certificações da DIO! 🇧🇷 </h3>
+
+
 
