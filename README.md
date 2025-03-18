@@ -7,6 +7,6 @@
 </h2>
  <br/l>
 
-![Legenda](https://gifdb.com/images/high/shook-gif-file-2872kb-ikd1qlf9ri5id07v.gif)](url para a pagina)]
+![Surprised Pikachu](https://gifdb.com/images/high/shook-gif-file-2872kb-ikd1qlf9ri5id07v.gif)]
 
   <h3 align="center"> Certificações da DIO! 🇧🇷 </h3>
