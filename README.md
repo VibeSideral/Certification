@@ -29,7 +29,7 @@ Certificações da DIO! 🇧🇷
 
   <h3 align="center"> 
 🎮 Curiosidades e
-   Habilidades sobre mim 🎮
+   Habilidades 🎮
 </h3>
 
 
