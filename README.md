@@ -19,31 +19,8 @@
    
 ![Surprised Pikachu](https://gifdb.com/images/high/shook-gif-file-2872kb-ikd1qlf9ri5id07v.gif)
 
-----------
+------
 
-  <h3 align="center"> 
-Certificações da DIO no Linkedin! 🇧🇷 
-    
-[https://www.linkedin.com/in/victor-corr%C3%AAa-a87218341/recent-activity/all/]()
+<h2> Certificações e curiosidades Clique Aqui !! </h2>
 
-</h3>
-
-
-
-
-
-
-
-
-
-
-----------
-
-  <h3 align="center"> 
-🎮 Curiosidades e
-   Habilidades 🎮
-</h3>
-
-
-
-
+[]()
