@@ -1,7 +1,12 @@
-Seleção de idiomas será nessa área, assim que possível !!
+<h4 align="center">
 
+- Versão em Espanhol Disponível [Aqui](   ) 🇪🇸. **Em Desenvolvimento**
 
----------
+- Versão em Inglês Disponível [Aqui](   ) 🇺🇸. **Em Desenvolvimento**
+
+  </h4>
+
+--------
 
 <h2 
 <h3 align="center">
@@ -17,7 +22,9 @@ Seleção de idiomas será nessa área, assim que possível !!
 ----------
 
   <h3 align="center"> 
-Certificações da DIO! 🇧🇷 
+Certificações da DIO no Linkedin! 🇧🇷 
+[https://www.linkedin.com/in/victor-corr%C3%AAa-a87218341/recent-activity/all/]()
+
 </h3>
 
 
