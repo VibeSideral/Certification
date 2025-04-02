@@ -23,6 +23,7 @@
 
   <h3 align="center"> 
 Certificações da DIO no Linkedin! 🇧🇷 
+    
 [https://www.linkedin.com/in/victor-corr%C3%AAa-a87218341/recent-activity/all/]()
 
 </h3>
